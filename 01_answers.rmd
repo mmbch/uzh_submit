@@ -16,7 +16,7 @@ date: "last updated: `r Sys.Date()`"
 ### GitHub
 
 Your GitHub account:
-
+/mmbch
 
 ### Previous experience
 
@@ -33,29 +33,29 @@ Fill in this [short survey on your previous experience](https://forms.gle/BJtFLN
 
 Describe what the following terms / laws / cases refer to in one sentence each:
 
-terms of service: 
+terms of service: are legal agreements between a service provider and a person who wants to use that service.
 
-GDPR: 
+GDPR: a regulation in EU law on data protection and privacy in the European Union (EU) and the European Economic Area (EEA). 
 
-Computer Fraud and Abuse Act: 
+Computer Fraud and Abuse Act: is a United States cybersecurity bill that was enacted in 1986 as an amendment to existing computer fraud law.
 
-Sandvig v. Barr: 
+Sandvig v. Barr: The ACLU has filed a lawsuit challenging the constitutionality of the Computer Fraud and Abuse Act, which makes it a federal crime to access a computer in a manner that “exceeds authorized access.”
 
 
 
 ### Terms of service
 
-Something that is not allowed:
+Something that is not allowed: You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter
 
-Something that is confusing:
+Something that is confusing: We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) (...), (ii) you create risk or possible legal exposure for us; (...)
 
-Something related to scraping: 
+Something related to scraping: access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited)
 
 
 ### robots.txt
 
 
-webpage you checked:
+webpage you checked: https://twitter.com/robots.txt
 
 
 ### Hacktivism
