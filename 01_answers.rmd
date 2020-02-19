@@ -62,11 +62,18 @@ webpage you checked: https://twitter.com/robots.txt
 
 Find information about the following people.
 
-- Aaron Swartz
-- Alexandra Elbakyan
-- Karrie Karahalios
-- Murray Cox
-- Paolo Cirio
+- Aaron Swartz (US)
+  - RSS, Markdown, Co-Founder of Reddit, PACER, JSTOR, suicide with 26yrs
+- Alexandra Elbakyan (KZ)
+  - Sci-Hub (free access to research papers)
+- Karrie Karahalios (US)
+  - noted for her work on the impact of computer science on people and society, analyses of social media, and algorithm auditing
+- Murray Cox (AU)
+  - runs Inside Airbnb, which uses the startup’s own data to highlight illegal listings in big cities
+- Paolo Cirio (IT)
+  - exposed over 200,000 Cayman Islands offshore firms with the work Loophole for All in 2013
+  - the hacking of Facebook through publishing 1 million users on a dating website with Face to Facebook in 2011
+  - cyber attacks against NATO
 - another data activist of your choosing
 
 
